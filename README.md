@@ -45,6 +45,7 @@ For better understanding of task, I have trained MaskRCNN-Model and created data
 ![](assets/vehicleDetection.png)
 
 
+
 ## Requirements
 Python 3.7.8, TensorFlow 2.0, and other common packages listed in `requirements.txt`.
 
