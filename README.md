@@ -35,6 +35,8 @@ For better understanding of task, I have trained MaskRCNN-Model and created data
 
 4. Dataset Loader:  MathikereDataset(Dataset) class
 5. Epoch: Head-epoch: 5 and E2E-Model: 20 
+6. COCO mAP
+![](assets/cocoMap.png)
 
 ## Inference Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/n03m9lC32H0/0.jpg)](https://www.youtube.com/watch?v=n03m9lC32H0)
@@ -43,6 +45,8 @@ For better understanding of task, I have trained MaskRCNN-Model and created data
 ### CVAT Annotation
 
 ![](assets/vehicleDetection.png)
+
+
 
 
 
